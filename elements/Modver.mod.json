@@ -16,6 +16,19 @@
           "x": 6,
           "y": 8
         }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Revision: RV-63718",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Revision: RV-63718",
+          "x": 6,
+          "y": 17
+        }
       }
     ],
     "baseTexture": "",
