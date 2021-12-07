@@ -39,8 +39,6 @@ public class ModverOverlay {
 			double z = _z;
 			if (true) {
 				Minecraft.getInstance().fontRenderer.drawString(event.getMatrixStack(), "Mod Ver V1.1.6", posX + -207, posY + -112, -1);
-				Minecraft.getInstance().fontRenderer.drawString(event.getMatrixStack(), "Position " + x + " " + y + " and " + z + ".", posX + -207,
-						posY + -103, -1);
 			}
 		}
 	}

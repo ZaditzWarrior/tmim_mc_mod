@@ -16,19 +16,6 @@
           "x": 6,
           "y": 8
         }
-      },
-      {
-        "type": "label",
-        "data": {
-          "text": "Position <x> <y> and <z>.",
-          "color": {
-            "value": -1,
-            "falpha": 0.0
-          },
-          "name": "Position <x> <y> and <z>.",
-          "x": 6,
-          "y": 17
-        }
       }
     ],
     "baseTexture": "",
