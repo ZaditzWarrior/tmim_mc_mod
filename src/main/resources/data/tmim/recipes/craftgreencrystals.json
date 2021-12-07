@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "1": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "2": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "3": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "5": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "6": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "7": {
+      "item": "tmim:green_crysal_shard"
+    },
+    "8": {
+      "item": "tmim:green_crysal_shard"
+    }
+  },
+  "result": {
+    "item": "tmim:green_crystal",
+    "count": 1
+  }
+}

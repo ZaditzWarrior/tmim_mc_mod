@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:gun_barrel"
+    },
+    "1": {
+      "item": "tmim:gun_mechanism"
+    },
+    "3": {
+      "item": "tmim:trigger_unit"
+    }
+  },
+  "result": {
+    "item": "tmim:pistol",
+    "count": 1
+  }
+}

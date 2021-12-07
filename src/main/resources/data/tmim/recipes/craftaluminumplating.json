@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "1": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "2": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "3": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "5": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "6": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "7": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "8": {
+      "item": "tmim:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:aluminumplating",
+    "count": 1
+  }
+}

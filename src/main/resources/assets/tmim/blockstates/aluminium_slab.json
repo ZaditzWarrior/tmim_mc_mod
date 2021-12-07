@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/aluminium_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/aluminium_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/aluminium_slab_full"
+    }
+  }
+}

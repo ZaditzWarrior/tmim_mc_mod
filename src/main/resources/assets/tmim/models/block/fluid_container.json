@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/fluid_container",
+    "up": "tmim:blocks/fluid_container",
+    "north": "tmim:blocks/fluid_container",
+    "east": "tmim:blocks/fluid_container",
+    "south": "tmim:blocks/fluid_container",
+    "west": "tmim:blocks/fluid_container",
+    "particle": "tmim:blocks/fluid_container"
+  }
+}

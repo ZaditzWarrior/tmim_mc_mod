@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sinconium_ingot"
+    },
+    "3": {
+      "item": "tmim:sinconium_ingot"
+    },
+    "4": {
+      "item": "tmim:sinconium_ingot"
+    },
+    "6": {
+      "item": "tmim:sinconium_ingot"
+    },
+    "7": {
+      "item": "tmim:sinconium_ingot"
+    },
+    "8": {
+      "item": "tmim:sinconium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:sinconium_stairs",
+    "count": 3
+  }
+}

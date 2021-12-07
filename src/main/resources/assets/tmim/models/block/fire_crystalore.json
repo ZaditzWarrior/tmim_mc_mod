@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/fire_ore",
+    "up": "tmim:blocks/fire_ore",
+    "north": "tmim:blocks/fire_ore",
+    "east": "tmim:blocks/fire_ore",
+    "south": "tmim:blocks/fire_ore",
+    "west": "tmim:blocks/fire_ore",
+    "particle": "tmim:blocks/fire_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/topaz_ore",
+    "up": "tmim:blocks/topaz_ore",
+    "north": "tmim:blocks/topaz_ore",
+    "east": "tmim:blocks/topaz_ore",
+    "south": "tmim:blocks/topaz_ore",
+    "west": "tmim:blocks/topaz_ore",
+    "particle": "tmim:blocks/topaz_ore"
+  }
+}

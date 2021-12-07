@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:lead_ingot"
+    },
+    "2": {
+      "item": "tmim:lead_ingot"
+    },
+    "3": {
+      "item": "tmim:lead_ingot"
+    },
+    "5": {
+      "item": "tmim:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:deleted_mod_element_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:rubyplate"
+    },
+    "1": {
+      "item": "tmim:rubyplate"
+    },
+    "2": {
+      "item": "tmim:rubyplate"
+    },
+    "3": {
+      "item": "tmim:rubyplate"
+    },
+    "5": {
+      "item": "tmim:rubyplate"
+    },
+    "6": {
+      "item": "tmim:rubyplate"
+    },
+    "7": {
+      "item": "tmim:rubyplate"
+    },
+    "8": {
+      "item": "tmim:rubyplate"
+    }
+  },
+  "result": {
+    "item": "tmim:ruby_plating",
+    "count": 1
+  }
+}

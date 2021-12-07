@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/green_rupee_ore",
+    "up": "tmim:blocks/green_rupee_ore",
+    "north": "tmim:blocks/green_rupee_ore",
+    "east": "tmim:blocks/green_rupee_ore",
+    "south": "tmim:blocks/green_rupee_ore",
+    "west": "tmim:blocks/green_rupee_ore",
+    "particle": "tmim:blocks/green_rupee_ore"
+  }
+}

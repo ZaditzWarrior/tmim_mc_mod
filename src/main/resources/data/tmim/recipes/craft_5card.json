@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_wire"
+    },
+    "1": {
+      "item": "tmim:level_2_keycard"
+    },
+    "2": {
+      "item": "tmim:copper_wire"
+    },
+    "3": {
+      "item": "tmim:level_1keycard"
+    },
+    "4": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "5": {
+      "item": "tmim:level_3_keycard"
+    },
+    "6": {
+      "item": "tmim:copper_wire"
+    },
+    "7": {
+      "item": "tmim:level_4_keycard"
+    },
+    "8": {
+      "item": "tmim:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tmim:level_5keycard",
+    "count": 1
+  }
+}

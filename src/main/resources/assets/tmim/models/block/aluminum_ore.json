@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/aluminum_ore",
+    "up": "tmim:blocks/aluminum_ore",
+    "north": "tmim:blocks/aluminum_ore",
+    "east": "tmim:blocks/aluminum_ore",
+    "south": "tmim:blocks/aluminum_ore",
+    "west": "tmim:blocks/aluminum_ore",
+    "particle": "tmim:blocks/aluminum_ore"
+  }
+}

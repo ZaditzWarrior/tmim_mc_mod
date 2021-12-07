@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "1": {
+      "item": "tmim:titanium_ingot"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "tmim:titanium_ingot"
+    },
+    "5": {
+      "item": "tmim:titanium_ingot"
+    },
+    "6": {
+      "item": "minecraft:glass"
+    },
+    "7": {
+      "item": "tmim:titanium_ingot"
+    },
+    "8": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "tmim:fluid_container",
+    "count": 1
+  }
+}

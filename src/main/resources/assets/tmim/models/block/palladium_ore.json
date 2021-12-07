@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/palladium_ore",
+    "up": "tmim:blocks/palladium_ore",
+    "north": "tmim:blocks/palladium_ore",
+    "east": "tmim:blocks/palladium_ore",
+    "south": "tmim:blocks/palladium_ore",
+    "west": "tmim:blocks/palladium_ore",
+    "particle": "tmim:blocks/palladium_ore"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "1": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "2": {
+      "item": "tmim:iron_rod"
+    },
+    "3": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "4": {
+      "item": "tmim:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tmim:obsidian_axe",
+    "count": 1
+  }
+}

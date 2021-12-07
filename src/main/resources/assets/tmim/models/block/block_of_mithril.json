@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/mythrilblock",
+    "up": "tmim:blocks/mythrilblock",
+    "north": "tmim:blocks/mythrilblock",
+    "east": "tmim:blocks/mythrilblock",
+    "south": "tmim:blocks/mythrilblock",
+    "west": "tmim:blocks/mythrilblock",
+    "particle": "tmim:blocks/mythrilblock"
+  }
+}

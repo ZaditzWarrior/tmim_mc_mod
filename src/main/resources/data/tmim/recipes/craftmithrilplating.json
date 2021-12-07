@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:mithril_plate"
+    },
+    "1": {
+      "item": "tmim:mithril_plate"
+    },
+    "2": {
+      "item": "tmim:mithril_plate"
+    },
+    "3": {
+      "item": "tmim:mithril_plate"
+    },
+    "5": {
+      "item": "tmim:mithril_plate"
+    },
+    "6": {
+      "item": "tmim:mithril_plate"
+    },
+    "7": {
+      "item": "tmim:mithril_plate"
+    },
+    "8": {
+      "item": "tmim:mithril_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:mithril_plating",
+    "count": 1
+  }
+}

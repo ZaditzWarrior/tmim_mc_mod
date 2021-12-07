@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/irradiated_dirt",
+    "up": "tmim:blocks/irradiated_dirt",
+    "north": "tmim:blocks/irradiated_dirt",
+    "east": "tmim:blocks/irradiated_dirt",
+    "south": "tmim:blocks/irradiated_dirt",
+    "west": "tmim:blocks/irradiated_dirt",
+    "particle": "tmim:blocks/irradiated_dirt"
+  }
+}

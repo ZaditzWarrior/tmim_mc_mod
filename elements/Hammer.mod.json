@@ -1,0 +1,41 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "CUSTOM:ModItems"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 500,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "A strong hammer made from iron",
+      "Right-click on standard glass block to obtain glass shards",
+      "also works on all Ice block types"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedOnBlock": {
+      "name": "Drop_Items_Glass_Shards"
+    },
+    "hasDispenseBehavior": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/ruby_plating",
+    "up": "tmim:blocks/ruby_plating",
+    "north": "tmim:blocks/ammo_crate",
+    "east": "tmim:blocks/ruby_plating",
+    "south": "tmim:blocks/ruby_plating",
+    "west": "tmim:blocks/ruby_plating",
+    "particle": "tmim:blocks/ruby_plating"
+  }
+}

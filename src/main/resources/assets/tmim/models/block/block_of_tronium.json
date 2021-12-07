@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/tronium_block",
+    "up": "tmim:blocks/tronium_block",
+    "north": "tmim:blocks/tronium_block",
+    "east": "tmim:blocks/tronium_block",
+    "south": "tmim:blocks/tronium_block",
+    "west": "tmim:blocks/tronium_block",
+    "particle": "tmim:blocks/tronium_block"
+  }
+}

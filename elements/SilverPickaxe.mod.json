@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_pickaxe",
+    "customModelName": "Normal",
+    "name": "Silver Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ArmourandTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

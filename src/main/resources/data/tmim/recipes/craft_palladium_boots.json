@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:palladium_ingot"
+    },
+    "2": {
+      "item": "tmim:palladium_ingot"
+    },
+    "3": {
+      "item": "tmim:palladium_ingot"
+    },
+    "5": {
+      "item": "tmim:palladium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:palladium_boots",
+    "count": 1
+  }
+}

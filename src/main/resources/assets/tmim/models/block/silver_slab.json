@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "tmim:blocks/silver_block",
+    "top": "tmim:blocks/silver_block",
+    "side": "tmim:blocks/silver_block"
+  }
+}

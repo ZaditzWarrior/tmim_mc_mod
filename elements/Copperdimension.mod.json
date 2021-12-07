@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Copperdiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:CopperOre"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -26368,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerEntersDimension": {
+      "name": "CopperdimensionPlayerEntersDimension"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "CopperdimensionPlayerLeavesDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:BlockOfCopper"
+    },
+    "portalParticles": {
+      "value": "CRIT_MAGIC"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Copper Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:ModItems"
+    },
+    "texture": "copper_portal_igniter",
+    "portalTexture": "portal_animation_texture",
+    "enablePortal": true
+  }
+}

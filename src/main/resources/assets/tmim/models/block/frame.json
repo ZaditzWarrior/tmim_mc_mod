@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/standard_frame",
+    "up": "tmim:blocks/standard_frame",
+    "north": "tmim:blocks/standard_frame",
+    "east": "tmim:blocks/standard_frame",
+    "south": "tmim:blocks/standard_frame",
+    "west": "tmim:blocks/standard_frame",
+    "particle": "tmim:blocks/standard_frame"
+  }
+}

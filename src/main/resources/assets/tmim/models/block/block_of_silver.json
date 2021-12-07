@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/silver_block",
+    "up": "tmim:blocks/silver_block",
+    "north": "tmim:blocks/silver_block",
+    "east": "tmim:blocks/silver_block",
+    "south": "tmim:blocks/silver_block",
+    "west": "tmim:blocks/silver_block",
+    "particle": "tmim:blocks/silver_block"
+  }
+}

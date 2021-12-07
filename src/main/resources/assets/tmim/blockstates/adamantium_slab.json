@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/adamantium_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/adamantium_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/adamantium_slab_full"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:microchip"
+    },
+    "1": {
+      "item": "tmim:copper_wire"
+    },
+    "2": {
+      "item": "tmim:microchip"
+    },
+    "3": {
+      "item": "tmim:copper_wire"
+    },
+    "4": {
+      "item": "tmim:level_2_keycard"
+    },
+    "5": {
+      "item": "tmim:copper_wire"
+    },
+    "6": {
+      "item": "tmim:microchip"
+    },
+    "8": {
+      "item": "tmim:microchip"
+    }
+  },
+  "result": {
+    "item": "tmim:level_3_keycard",
+    "count": 1
+  }
+}

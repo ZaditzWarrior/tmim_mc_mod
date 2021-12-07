@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "mc_mod:blocks/redstone_pipes"
+  }
+}

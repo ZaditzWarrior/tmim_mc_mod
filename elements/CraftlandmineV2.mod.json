@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:Landmine"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LandmineV2"
+    },
+    "name": "craftlandmine_v_2",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "  8"
+  ],
+  "key": {
+    "1": {
+      "item": "tmim:thermal_controller"
+    },
+    "3": {
+      "item": "tmim:gun_barrel"
+    },
+    "4": {
+      "item": "tmim:lightening_crystal"
+    },
+    "5": {
+      "item": "tmim:battery"
+    },
+    "8": {
+      "item": "tmim:trigger_unit"
+    }
+  },
+  "result": {
+    "item": "tmim:lightening_cannon",
+    "count": 1
+  }
+}

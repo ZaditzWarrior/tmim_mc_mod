@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/cobalt_frame",
+    "up": "tmim:blocks/cobalt_frame",
+    "north": "tmim:blocks/cobalt_frame",
+    "east": "tmim:blocks/cobalt_frame",
+    "south": "tmim:blocks/cobalt_frame",
+    "west": "tmim:blocks/cobalt_frame",
+    "particle": "tmim:blocks/cobalt_frame"
+  }
+}

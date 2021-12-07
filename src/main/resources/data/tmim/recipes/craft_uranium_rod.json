@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:uranium"
+    },
+    "1": {
+      "item": "tmim:uranium"
+    },
+    "2": {
+      "item": "tmim:uranium"
+    }
+  },
+  "result": {
+    "item": "tmim:uranium_rod",
+    "count": 1
+  }
+}

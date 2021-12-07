@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "tmim:blocks/energoncrystals",
+    "particle": "tmim:blocks/energoncrystals"
+  }
+}

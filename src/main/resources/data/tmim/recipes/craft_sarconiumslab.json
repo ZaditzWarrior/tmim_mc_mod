@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "1": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "2": {
+      "item": "tmim:sarconium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:sarconium_slab",
+    "count": 3
+  }
+}

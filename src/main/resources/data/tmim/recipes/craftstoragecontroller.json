@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_wire"
+    },
+    "1": {
+      "item": "tmim:microchip"
+    },
+    "2": {
+      "item": "tmim:copper_wire"
+    },
+    "3": {
+      "item": "tmim:microchip"
+    },
+    "4": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "5": {
+      "item": "tmim:microchip"
+    },
+    "6": {
+      "item": "tmim:copper_wire"
+    },
+    "7": {
+      "item": "tmim:microchip"
+    },
+    "8": {
+      "item": "tmim:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tmim:storage_controller",
+    "count": 1
+  }
+}

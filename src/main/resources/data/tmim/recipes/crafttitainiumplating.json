@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:titanium_plate"
+    },
+    "1": {
+      "item": "tmim:titanium_plate"
+    },
+    "2": {
+      "item": "tmim:titanium_plate"
+    },
+    "3": {
+      "item": "tmim:titanium_plate"
+    },
+    "5": {
+      "item": "tmim:titanium_plate"
+    },
+    "6": {
+      "item": "tmim:titanium_plate"
+    },
+    "7": {
+      "item": "tmim:titanium_plate"
+    },
+    "8": {
+      "item": "tmim:titanium_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:titainium_plating",
+    "count": 1
+  }
+}

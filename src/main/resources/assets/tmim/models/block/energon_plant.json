@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tmim:blocks/energon_plant",
+    "particle": "tmim:blocks/energon_plant"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/energon_ore",
+    "up": "tmim:blocks/energon_ore",
+    "north": "tmim:blocks/energon_ore",
+    "east": "tmim:blocks/energon_ore",
+    "south": "tmim:blocks/energon_ore",
+    "west": "tmim:blocks/energon_ore",
+    "particle": "tmim:blocks/energon_ore"
+  }
+}

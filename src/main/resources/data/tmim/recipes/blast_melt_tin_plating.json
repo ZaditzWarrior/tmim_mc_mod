@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "tmim:tin_plating_2"
+  },
+  "result": {
+    "item": "tmim:tin_ingot"
+  }
+}

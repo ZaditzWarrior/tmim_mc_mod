@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:stone_plate"
+    },
+    "1": {
+      "item": "tmim:stone_plate"
+    },
+    "2": {
+      "item": "tmim:stone_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:stacked_stone_plates",
+    "count": 1
+  }
+}

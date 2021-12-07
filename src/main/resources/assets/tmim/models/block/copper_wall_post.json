@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "tmim:blocks/copper_block",
+    "particle": "tmim:blocks/copper_block"
+  }
+}

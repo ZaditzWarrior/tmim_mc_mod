@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/adamantium_ore",
+    "up": "tmim:blocks/adamantium_ore",
+    "north": "tmim:blocks/adamantium_ore",
+    "east": "tmim:blocks/adamantium_ore",
+    "south": "tmim:blocks/adamantium_ore",
+    "west": "tmim:blocks/adamantium_ore",
+    "particle": "tmim:blocks/adamantium_ore"
+  }
+}

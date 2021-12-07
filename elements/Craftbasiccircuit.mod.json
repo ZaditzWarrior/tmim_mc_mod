@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Basiclogiccircuit"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Electroniccircuit"
+      },
+      {
+        "value": "CUSTOM:CircuitBoard"
+      },
+      {
+        "value": "CUSTOM:Electroniccircuit"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Basiclogiccircuit"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Basiccircuitboard"
+    },
+    "name": "craftbasiccircuit",
+    "namespace": "mod"
+  }
+}

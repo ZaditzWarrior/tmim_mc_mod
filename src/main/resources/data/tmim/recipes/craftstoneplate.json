@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:stone_brick"
+    },
+    "1": {
+      "item": "tmim:stone_brick"
+    },
+    "2": {
+      "item": "tmim:stone_brick"
+    },
+    "3": {
+      "item": "tmim:stone_brick"
+    },
+    "5": {
+      "item": "tmim:stone_brick"
+    },
+    "6": {
+      "item": "tmim:stone_brick"
+    },
+    "7": {
+      "item": "tmim:stone_brick"
+    },
+    "8": {
+      "item": "tmim:stone_brick"
+    }
+  },
+  "result": {
+    "item": "tmim:stone_plate",
+    "count": 1
+  }
+}

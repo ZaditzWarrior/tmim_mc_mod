@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tmim:blocks/sarconium_block",
+    "top": "tmim:blocks/sarconium_block",
+    "side": "tmim:blocks/sarconium_block"
+  }
+}

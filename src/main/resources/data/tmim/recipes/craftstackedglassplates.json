@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:glass_plate"
+    },
+    "1": {
+      "item": "tmim:glass_plate"
+    },
+    "2": {
+      "item": "tmim:glass_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:stackedglassplates",
+    "count": 1
+  }
+}

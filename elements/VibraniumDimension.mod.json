@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Adamantiumbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:VibraniumOre"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerEntersDimension": {
+      "name": "CopperdimensionPlayerEntersDimension"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "CopperdimensionPlayerLeavesDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:BlockOfVibranium"
+    },
+    "portalParticles": {
+      "value": "CRIT_MAGIC"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Vibranium Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:ModItems"
+    },
+    "texture": "vibranium_portal_igniter",
+    "portalTexture": "portal_animation_texture",
+    "enablePortal": true
+  }
+}

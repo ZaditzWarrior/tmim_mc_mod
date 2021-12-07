@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "tmim:blocks/block_of_coablt",
+    "particle": "tmim:blocks/block_of_coablt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/adamantium_frame",
+    "up": "tmim:blocks/adamantium_frame",
+    "north": "tmim:blocks/adamantium_frame",
+    "east": "tmim:blocks/adamantium_frame",
+    "south": "tmim:blocks/adamantium_frame",
+    "west": "tmim:blocks/adamantium_frame",
+    "particle": "tmim:blocks/adamantium_frame"
+  }
+}

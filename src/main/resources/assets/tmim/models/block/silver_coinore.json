@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/silver_coin_ore",
+    "up": "tmim:blocks/silver_coin_ore",
+    "north": "tmim:blocks/silver_coin_ore",
+    "east": "tmim:blocks/silver_coin_ore",
+    "south": "tmim:blocks/silver_coin_ore",
+    "west": "tmim:blocks/silver_coin_ore",
+    "particle": "tmim:blocks/silver_coin_ore"
+  }
+}

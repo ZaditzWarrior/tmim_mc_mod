@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:malachite"
+    },
+    "1": {
+      "item": "tmim:malachite"
+    },
+    "2": {
+      "item": "tmim:malachite"
+    },
+    "3": {
+      "item": "tmim:malachite"
+    },
+    "4": {
+      "item": "tmim:malachite"
+    },
+    "5": {
+      "item": "tmim:malachite"
+    },
+    "6": {
+      "item": "tmim:malachite"
+    },
+    "7": {
+      "item": "tmim:malachite"
+    },
+    "8": {
+      "item": "tmim:malachite"
+    }
+  },
+  "result": {
+    "item": "tmim:block_of_malachite",
+    "count": 1
+  }
+}

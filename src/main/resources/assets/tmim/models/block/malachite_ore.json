@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/malachite_ore",
+    "up": "tmim:blocks/malachite_ore",
+    "north": "tmim:blocks/malachite_ore",
+    "east": "tmim:blocks/malachite_ore",
+    "south": "tmim:blocks/malachite_ore",
+    "west": "tmim:blocks/malachite_ore",
+    "particle": "tmim:blocks/malachite_ore"
+  }
+}

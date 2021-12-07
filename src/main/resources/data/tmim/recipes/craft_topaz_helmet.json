@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:topaz_ingot"
+    },
+    "1": {
+      "item": "tmim:topaz_ingot"
+    },
+    "2": {
+      "item": "tmim:topaz_ingot"
+    },
+    "3": {
+      "item": "tmim:topaz_ingot"
+    },
+    "5": {
+      "item": "tmim:topaz_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:topaz_helmet",
+    "count": 1
+  }
+}

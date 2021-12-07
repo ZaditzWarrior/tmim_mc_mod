@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:uranium"
+    },
+    "1": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "tmim:uranium"
+    },
+    "3": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "minecraft:glass"
+    },
+    "6": {
+      "item": "tmim:uranium"
+    },
+    "7": {
+      "item": "minecraft:glass"
+    },
+    "8": {
+      "item": "tmim:uranium"
+    }
+  },
+  "result": {
+    "item": "tmim:uranium_glass",
+    "count": 1
+  }
+}

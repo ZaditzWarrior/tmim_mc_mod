@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PurpleRupee"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleRupee"
+      },
+      {
+        "value": "CUSTOM:PurpleRupee"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleRupee"
+      },
+      {
+        "value": "CUSTOM:PurpleRupee"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpleRupee"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PurpleRupeeplant"
+    },
+    "name": "craft_purple_rupee_plant",
+    "namespace": "mod"
+  }
+}

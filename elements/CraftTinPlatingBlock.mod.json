@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      },
+      {
+        "value": "CUSTOM:TinPlating2"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TinPlating"
+    },
+    "name": "craft_tin_plating_block",
+    "namespace": "mod"
+  }
+}

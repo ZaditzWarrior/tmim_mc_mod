@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "tmim:blocks/adamantium_block",
+    "particle": "tmim:blocks/adamantium_block"
+  }
+}

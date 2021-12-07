@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:energon_shard"
+    },
+    "1": {
+      "item": "tmim:energon_shard"
+    },
+    "2": {
+      "item": "tmim:energon_shard"
+    },
+    "3": {
+      "item": "tmim:energon_shard"
+    },
+    "5": {
+      "item": "tmim:energon_shard"
+    },
+    "6": {
+      "item": "tmim:energon_shard"
+    },
+    "7": {
+      "item": "tmim:energon_shard"
+    },
+    "8": {
+      "item": "tmim:energon_shard"
+    }
+  },
+  "result": {
+    "item": "tmim:energon_crystal",
+    "count": 1
+  }
+}

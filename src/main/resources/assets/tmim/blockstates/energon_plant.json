@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=1": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=2": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=3": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=4": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=5": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=6": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=7": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=8": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=9": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=10": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=11": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=12": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=13": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=14": {
+      "model": "tmim:block/energon_plant"
+    },
+    "age=15": {
+      "model": "tmim:block/energon_plant"
+    }
+  }
+}

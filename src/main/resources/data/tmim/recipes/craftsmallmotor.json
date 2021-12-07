@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_wire"
+    },
+    "1": {
+      "item": "tmim:copper_wire"
+    },
+    "2": {
+      "item": "tmim:iron_gear"
+    },
+    "3": {
+      "item": "tmim:iron_rod"
+    },
+    "4": {
+      "item": "tmim:iron_rod"
+    },
+    "5": {
+      "item": "tmim:copper_wire"
+    },
+    "6": {
+      "item": "tmim:copper_wire"
+    },
+    "7": {
+      "item": "tmim:copper_wire"
+    },
+    "8": {
+      "item": "tmim:iron_gear"
+    }
+  },
+  "result": {
+    "item": "tmim:small_electric_motor",
+    "count": 1
+  }
+}

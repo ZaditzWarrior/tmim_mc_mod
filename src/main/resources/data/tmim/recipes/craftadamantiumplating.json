@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:adamantiumplate"
+    },
+    "1": {
+      "item": "tmim:adamantiumplate"
+    },
+    "2": {
+      "item": "tmim:adamantiumplate"
+    },
+    "3": {
+      "item": "tmim:adamantiumplate"
+    },
+    "5": {
+      "item": "tmim:adamantiumplate"
+    },
+    "6": {
+      "item": "tmim:adamantiumplate"
+    },
+    "7": {
+      "item": "tmim:adamantiumplate"
+    },
+    "8": {
+      "item": "tmim:adamantiumplate"
+    }
+  },
+  "result": {
+    "item": "tmim:adamantium_plating",
+    "count": 1
+  }
+}

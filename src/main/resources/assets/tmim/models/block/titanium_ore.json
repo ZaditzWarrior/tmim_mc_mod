@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/titanium_ore",
+    "up": "tmim:blocks/titanium_ore",
+    "north": "tmim:blocks/titanium_ore",
+    "east": "tmim:blocks/titanium_ore",
+    "south": "tmim:blocks/titanium_ore",
+    "west": "tmim:blocks/titanium_ore",
+    "particle": "tmim:blocks/titanium_ore"
+  }
+}

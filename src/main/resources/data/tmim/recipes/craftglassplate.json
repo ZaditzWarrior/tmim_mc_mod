@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:glassshard"
+    },
+    "1": {
+      "item": "tmim:glassshard"
+    },
+    "2": {
+      "item": "tmim:glassshard"
+    },
+    "3": {
+      "item": "tmim:glassshard"
+    },
+    "5": {
+      "item": "tmim:glassshard"
+    },
+    "6": {
+      "item": "tmim:glassshard"
+    },
+    "7": {
+      "item": "tmim:glassshard"
+    },
+    "8": {
+      "item": "tmim:glassshard"
+    }
+  },
+  "result": {
+    "item": "tmim:glass_plate",
+    "count": 1
+  }
+}

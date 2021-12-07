@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/copper_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/copper_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/copper_slab_full"
+    }
+  }
+}

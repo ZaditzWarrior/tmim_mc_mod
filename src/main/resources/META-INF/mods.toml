@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="tmim"
+version="1.1.4"
+displayName="Too Many Items Mod"
+credits="Created using modmaker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="Drake, The Dragon, MCreator"
+description='''
+A mod that adds several Ores, Items and Entities
+'''
+
+[[dependencies.tmim]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

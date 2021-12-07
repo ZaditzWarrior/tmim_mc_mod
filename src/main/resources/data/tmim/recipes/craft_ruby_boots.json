@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:ruby"
+    },
+    "2": {
+      "item": "tmim:ruby"
+    },
+    "3": {
+      "item": "tmim:ruby"
+    },
+    "5": {
+      "item": "tmim:ruby"
+    }
+  },
+  "result": {
+    "item": "tmim:ruby_armour_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:black_crystal"
+    },
+    "1": {
+      "item": "tmim:black_crystal"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tmim:entity_slayer",
+    "count": 1
+  }
+}

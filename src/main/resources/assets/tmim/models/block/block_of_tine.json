@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_tin",
+    "up": "tmim:blocks/block_of_tin",
+    "north": "tmim:blocks/block_of_tin",
+    "east": "tmim:blocks/block_of_tin",
+    "south": "tmim:blocks/block_of_tin",
+    "west": "tmim:blocks/block_of_tin",
+    "particle": "tmim:blocks/block_of_tin"
+  }
+}

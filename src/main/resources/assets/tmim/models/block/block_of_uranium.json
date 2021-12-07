@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_uranium",
+    "up": "tmim:blocks/block_of_uranium",
+    "north": "tmim:blocks/block_of_uranium",
+    "east": "tmim:blocks/block_of_uranium",
+    "south": "tmim:blocks/block_of_uranium",
+    "west": "tmim:blocks/block_of_uranium",
+    "particle": "tmim:blocks/block_of_uranium"
+  }
+}

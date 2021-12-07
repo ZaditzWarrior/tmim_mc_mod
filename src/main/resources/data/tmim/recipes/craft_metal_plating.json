@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:metal_plating_2"
+    },
+    "1": {
+      "item": "tmim:metal_plating_2"
+    },
+    "2": {
+      "item": "tmim:metal_plating_2"
+    },
+    "3": {
+      "item": "tmim:metal_plating_2"
+    },
+    "5": {
+      "item": "tmim:metal_plating_2"
+    },
+    "6": {
+      "item": "tmim:metal_plating_2"
+    },
+    "7": {
+      "item": "tmim:metal_plating_2"
+    },
+    "8": {
+      "item": "tmim:metal_plating_2"
+    }
+  },
+  "result": {
+    "item": "tmim:metal_plating",
+    "count": 1
+  }
+}

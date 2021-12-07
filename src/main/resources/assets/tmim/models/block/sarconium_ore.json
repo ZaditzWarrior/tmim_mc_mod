@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/sarconium_ore",
+    "up": "tmim:blocks/sarconium_ore",
+    "north": "tmim:blocks/sarconium_ore",
+    "east": "tmim:blocks/sarconium_ore",
+    "south": "tmim:blocks/sarconium_ore",
+    "west": "tmim:blocks/sarconium_ore",
+    "particle": "tmim:blocks/sarconium_ore"
+  }
+}

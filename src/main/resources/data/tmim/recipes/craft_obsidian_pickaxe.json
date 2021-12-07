@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "1": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "2": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "4": {
+      "item": "tmim:iron_rod"
+    },
+    "7": {
+      "item": "tmim:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tmim:obsidian_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "tmim:blocks/dark_energon",
+    "particle": "tmim:blocks/dark_energon"
+  }
+}

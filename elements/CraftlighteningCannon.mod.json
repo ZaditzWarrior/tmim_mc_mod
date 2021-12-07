@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ThermalController"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GunBarrel"
+      },
+      {
+        "value": "CUSTOM:LighteningCrystal"
+      },
+      {
+        "value": "CUSTOM:Battery"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TriggerUnit"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LighteningCannon"
+    },
+    "name": "craftlightening_cannon",
+    "namespace": "mod"
+  }
+}

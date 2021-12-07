@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:iron_gear"
+    },
+    "1": {
+      "item": "tmim:aluminumplating"
+    },
+    "2": {
+      "item": "tmim:iron_gear"
+    },
+    "3": {
+      "item": "tmim:aluminumplating"
+    },
+    "4": {
+      "item": "tmim:advancedcircuitboard"
+    },
+    "5": {
+      "item": "tmim:aluminumplating"
+    },
+    "6": {
+      "item": "tmim:iron_gear"
+    },
+    "7": {
+      "item": "tmim:aluminumplating"
+    },
+    "8": {
+      "item": "tmim:iron_gear"
+    }
+  },
+  "result": {
+    "item": "tmim:material_compressor",
+    "count": 1
+  }
+}

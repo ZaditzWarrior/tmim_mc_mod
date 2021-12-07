@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/magnesium_block",
+    "up": "tmim:blocks/magnesium_block",
+    "north": "tmim:blocks/magnesium_block",
+    "east": "tmim:blocks/magnesium_block",
+    "south": "tmim:blocks/magnesium_block",
+    "west": "tmim:blocks/magnesium_block",
+    "particle": "tmim:blocks/magnesium_block"
+  }
+}

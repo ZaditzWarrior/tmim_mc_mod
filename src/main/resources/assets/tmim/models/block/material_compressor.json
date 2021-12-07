@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_aluminium_",
+    "up": "tmim:blocks/top",
+    "north": "tmim:blocks/electronics",
+    "east": "tmim:blocks/tin_plate",
+    "south": "tmim:blocks/tin_plate",
+    "west": "tmim:blocks/tin_plate",
+    "particle": "tmim:blocks/block_of_aluminium_"
+  }
+}

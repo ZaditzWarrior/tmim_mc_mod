@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:microchip"
+    },
+    "1": {
+      "item": "tmim:microchip"
+    },
+    "2": {
+      "item": "tmim:microchip"
+    },
+    "3": {
+      "item": "tmim:microchip"
+    },
+    "4": {
+      "item": "tmim:level_3_keycard"
+    },
+    "5": {
+      "item": "tmim:microchip"
+    },
+    "6": {
+      "item": "tmim:microchip"
+    },
+    "7": {
+      "item": "tmim:microchip"
+    },
+    "8": {
+      "item": "tmim:microchip"
+    }
+  },
+  "result": {
+    "item": "tmim:level_4_keycard",
+    "count": 1
+  }
+}

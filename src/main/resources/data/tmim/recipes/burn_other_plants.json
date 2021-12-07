@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 50,
+  "ingredient": {
+    "tag": "minecraft:saplings"
+  },
+  "result": {
+    "item": "tmim:sheet_of_carbon"
+  }
+}

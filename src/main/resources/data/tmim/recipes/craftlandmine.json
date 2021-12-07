@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:microchip"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "tmim:microchip"
+    },
+    "3": {
+      "item": "minecraft:gunpowder"
+    },
+    "4": {
+      "item": "minecraft:tnt"
+    },
+    "5": {
+      "item": "minecraft:gunpowder"
+    },
+    "6": {
+      "item": "tmim:microchip"
+    },
+    "7": {
+      "item": "minecraft:gunpowder"
+    },
+    "8": {
+      "item": "tmim:microchip"
+    }
+  },
+  "result": {
+    "item": "tmim:landmine",
+    "count": 4
+  }
+}

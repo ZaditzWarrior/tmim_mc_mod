@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/sarconium_block",
+    "up": "tmim:blocks/sarconium_block",
+    "north": "tmim:blocks/sarconium_block",
+    "east": "tmim:blocks/sarconium_block",
+    "south": "tmim:blocks/sarconium_block",
+    "west": "tmim:blocks/sarconium_block",
+    "particle": "tmim:blocks/sarconium_block"
+  }
+}

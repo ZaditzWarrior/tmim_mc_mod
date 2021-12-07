@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "tmim:blocks/block_of_coablt",
+    "particle": "tmim:blocks/block_of_coablt"
+  }
+}

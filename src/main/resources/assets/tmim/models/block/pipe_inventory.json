@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "tmim:blocks/redstone_pipes",
+    "particle": "tmim:blocks/redstone_pipes"
+  }
+}

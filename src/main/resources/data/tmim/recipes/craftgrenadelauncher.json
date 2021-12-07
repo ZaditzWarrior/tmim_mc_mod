@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "tmim:iron_gear"
+    },
+    "3": {
+      "item": "tmim:gun_barrel"
+    },
+    "4": {
+      "item": "tmim:gun_mechanism"
+    },
+    "5": {
+      "item": "tmim:mechanical_parts"
+    },
+    "7": {
+      "item": "tmim:iron_gear"
+    },
+    "8": {
+      "item": "tmim:trigger_unit"
+    }
+  },
+  "result": {
+    "item": "tmim:grenade_launcher",
+    "count": 1
+  }
+}

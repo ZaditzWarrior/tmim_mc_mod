@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "1": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "2": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "3": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "4": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "5": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "6": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "7": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "8": {
+      "item": "tmim:dark_energon_shard"
+    }
+  },
+  "result": {
+    "item": "tmim:dark_energon_crystals",
+    "count": 1
+  }
+}

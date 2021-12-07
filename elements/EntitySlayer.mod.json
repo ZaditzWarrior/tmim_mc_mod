@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "black_diamond_sword",
+    "customModelName": "Normal",
+    "name": "Entity Slayer",
+    "specialInfo": [
+      "Does significant damage to all entities"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmourandTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 50.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

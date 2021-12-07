@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "1": {
+      "item": "tmim:block_of_copper"
+    },
+    "2": {
+      "item": "tmim:block_of_copper"
+    },
+    "3": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "4": {
+      "item": "tmim:block_of_copper"
+    },
+    "5": {
+      "item": "tmim:block_of_copper"
+    },
+    "7": {
+      "item": "tmim:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tmim:blockreplacer_v_8",
+    "count": 1
+  }
+}

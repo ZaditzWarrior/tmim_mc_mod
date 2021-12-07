@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "1": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "2": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "3": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "5": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "6": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "7": {
+      "item": "tmim:red_crystal_shard"
+    },
+    "8": {
+      "item": "tmim:red_crystal_shard"
+    }
+  },
+  "result": {
+    "item": "tmim:red_crystal",
+    "count": 1
+  }
+}

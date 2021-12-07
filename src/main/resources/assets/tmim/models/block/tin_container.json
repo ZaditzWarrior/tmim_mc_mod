@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/tin_plate",
+    "up": "tmim:blocks/tin_plate",
+    "north": "tmim:blocks/ammo_crate",
+    "east": "tmim:blocks/tin_plate",
+    "south": "tmim:blocks/tin_plate",
+    "west": "tmim:blocks/tin_plate",
+    "particle": "tmim:blocks/tin_plate"
+  }
+}

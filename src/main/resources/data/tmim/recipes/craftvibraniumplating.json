@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:vibraniumplate"
+    },
+    "1": {
+      "item": "tmim:vibraniumplate"
+    },
+    "2": {
+      "item": "tmim:vibraniumplate"
+    },
+    "3": {
+      "item": "tmim:vibraniumplate"
+    },
+    "5": {
+      "item": "tmim:vibraniumplate"
+    },
+    "6": {
+      "item": "tmim:vibraniumplate"
+    },
+    "7": {
+      "item": "tmim:vibraniumplate"
+    },
+    "8": {
+      "item": "tmim:vibraniumplate"
+    }
+  },
+  "result": {
+    "item": "tmim:vibranium_plating",
+    "count": 1
+  }
+}

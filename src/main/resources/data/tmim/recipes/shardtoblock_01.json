@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:ice_shard"
+    },
+    "1": {
+      "item": "tmim:ice_shard"
+    },
+    "2": {
+      "item": "tmim:ice_shard"
+    },
+    "3": {
+      "item": "tmim:ice_shard"
+    },
+    "5": {
+      "item": "tmim:ice_shard"
+    },
+    "6": {
+      "item": "tmim:ice_shard"
+    },
+    "7": {
+      "item": "tmim:ice_shard"
+    },
+    "8": {
+      "item": "tmim:ice_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:ice",
+    "count": 1
+  }
+}

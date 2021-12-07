@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:gold_coin"
+    },
+    "1": {
+      "item": "tmim:gold_coin"
+    },
+    "2": {
+      "item": "tmim:gold_coin"
+    },
+    "3": {
+      "item": "tmim:gold_coin"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 1
+  }
+}

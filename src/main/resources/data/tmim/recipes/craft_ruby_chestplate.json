@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:ruby"
+    },
+    "2": {
+      "item": "tmim:ruby"
+    },
+    "3": {
+      "item": "tmim:ruby"
+    },
+    "4": {
+      "item": "tmim:ruby"
+    },
+    "5": {
+      "item": "tmim:ruby"
+    },
+    "6": {
+      "item": "tmim:ruby"
+    },
+    "7": {
+      "item": "tmim:ruby"
+    },
+    "8": {
+      "item": "tmim:ruby"
+    }
+  },
+  "result": {
+    "item": "tmim:ruby_armour_chestplate",
+    "count": 1
+  }
+}

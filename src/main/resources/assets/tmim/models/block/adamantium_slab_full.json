@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "tmim:blocks/adamantium_block",
+    "top": "tmim:blocks/adamantium_block",
+    "side": "tmim:blocks/adamantium_block"
+  }
+}

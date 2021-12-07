@@ -1,0 +1,22 @@
+{
+  "gun_shot_01": {
+    "category": "hostile",
+    "subtitle": "subtitles.gun_shot_01",
+    "sounds": [
+      {
+        "name": "tmim:ak47_shot_a",
+        "stream": false
+      }
+    ]
+  },
+  "gun_shot_02": {
+    "category": "neutral",
+    "subtitle": "subtitles.gun_shot_02",
+    "sounds": [
+      {
+        "name": "tmim:pistol_shot_c",
+        "stream": false
+      }
+    ]
+  }
+}

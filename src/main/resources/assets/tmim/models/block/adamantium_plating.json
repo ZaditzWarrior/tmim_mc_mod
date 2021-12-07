@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/adamantium_plating",
+    "up": "tmim:blocks/adamantium_plating",
+    "north": "tmim:blocks/adamantium_plating",
+    "east": "tmim:blocks/adamantium_plating",
+    "south": "tmim:blocks/adamantium_plating",
+    "west": "tmim:blocks/adamantium_plating",
+    "particle": "tmim:blocks/adamantium_plating"
+  }
+}

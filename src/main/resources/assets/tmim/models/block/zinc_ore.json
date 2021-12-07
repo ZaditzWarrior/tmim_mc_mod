@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/zinc_ore",
+    "up": "tmim:blocks/zinc_ore",
+    "north": "tmim:blocks/zinc_ore",
+    "east": "tmim:blocks/zinc_ore",
+    "south": "tmim:blocks/zinc_ore",
+    "west": "tmim:blocks/zinc_ore",
+    "particle": "tmim:blocks/zinc_ore"
+  }
+}

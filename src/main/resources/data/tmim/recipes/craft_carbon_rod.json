@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "4": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "6": {
+      "item": "tmim:sheet_of_carbon"
+    }
+  },
+  "result": {
+    "item": "tmim:carbon_rod",
+    "count": 1
+  }
+}

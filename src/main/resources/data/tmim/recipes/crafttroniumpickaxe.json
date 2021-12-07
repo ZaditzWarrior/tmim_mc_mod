@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:tronium_ingot"
+    },
+    "1": {
+      "item": "tmim:tronium_ingot"
+    },
+    "2": {
+      "item": "tmim:tronium_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tmim:tronium_pickaxe",
+    "count": 1
+  }
+}

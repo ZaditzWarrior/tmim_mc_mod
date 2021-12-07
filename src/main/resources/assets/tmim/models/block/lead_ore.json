@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/lead_ore",
+    "up": "tmim:blocks/lead_ore",
+    "north": "tmim:blocks/lead_ore",
+    "east": "tmim:blocks/lead_ore",
+    "south": "tmim:blocks/lead_ore",
+    "west": "tmim:blocks/lead_ore",
+    "particle": "tmim:blocks/lead_ore"
+  }
+}

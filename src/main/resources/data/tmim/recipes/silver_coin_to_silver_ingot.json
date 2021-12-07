@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:silver_coin"
+    },
+    "1": {
+      "item": "tmim:silver_coin"
+    },
+    "2": {
+      "item": "tmim:silver_coin"
+    },
+    "3": {
+      "item": "tmim:silver_coin"
+    }
+  },
+  "result": {
+    "item": "tmim:silver_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:cobaltplate"
+    },
+    "1": {
+      "item": "tmim:cobaltplate"
+    },
+    "2": {
+      "item": "tmim:cobaltplate"
+    },
+    "3": {
+      "item": "tmim:cobaltplate"
+    },
+    "5": {
+      "item": "tmim:cobaltplate"
+    },
+    "6": {
+      "item": "tmim:cobaltplate"
+    },
+    "7": {
+      "item": "tmim:cobaltplate"
+    },
+    "8": {
+      "item": "tmim:cobaltplate"
+    }
+  },
+  "result": {
+    "item": "tmim:cobalt_plating",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_plating"
+    },
+    "1": {
+      "item": "tmim:copper_plating"
+    },
+    "2": {
+      "item": "tmim:copper_plating"
+    },
+    "3": {
+      "item": "tmim:copper_plating"
+    },
+    "5": {
+      "item": "tmim:copper_plating"
+    },
+    "6": {
+      "item": "tmim:copper_plating"
+    },
+    "7": {
+      "item": "tmim:copper_plating"
+    },
+    "8": {
+      "item": "tmim:copper_plating"
+    }
+  },
+  "result": {
+    "item": "tmim:copper_plating_2",
+    "count": 1
+  }
+}

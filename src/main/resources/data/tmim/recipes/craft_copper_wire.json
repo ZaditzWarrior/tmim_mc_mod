@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_ingot"
+    },
+    "1": {
+      "item": "tmim:copper_ingot"
+    },
+    "2": {
+      "item": "tmim:copper_ingot"
+    },
+    "3": {
+      "item": "tmim:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:copper_wire",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_enderite",
+    "up": "tmim:blocks/block_of_enderite",
+    "north": "tmim:blocks/block_of_enderite",
+    "east": "tmim:blocks/block_of_enderite",
+    "south": "tmim:blocks/block_of_enderite",
+    "west": "tmim:blocks/block_of_enderite",
+    "particle": "tmim:blocks/block_of_enderite"
+  }
+}

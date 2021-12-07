@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "2": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "3": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "5": {
+      "item": "tmim:sarconium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:sarconium_armour_boots",
+    "count": 1
+  }
+}

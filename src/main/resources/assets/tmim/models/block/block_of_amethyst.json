@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_amethyst",
+    "up": "tmim:blocks/block_of_amethyst",
+    "north": "tmim:blocks/block_of_amethyst",
+    "east": "tmim:blocks/block_of_amethyst",
+    "south": "tmim:blocks/block_of_amethyst",
+    "west": "tmim:blocks/block_of_amethyst",
+    "particle": "tmim:blocks/block_of_amethyst"
+  }
+}

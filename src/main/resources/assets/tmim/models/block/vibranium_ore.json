@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/vibranium_ore",
+    "up": "tmim:blocks/vibranium_ore",
+    "north": "tmim:blocks/vibranium_ore",
+    "east": "tmim:blocks/vibranium_ore",
+    "south": "tmim:blocks/vibranium_ore",
+    "west": "tmim:blocks/vibranium_ore",
+    "particle": "tmim:blocks/vibranium_ore"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobaltDimension"
+    },
+    "name": "craftcbltigniter",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "1": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "2": {
+      "item": "tmim:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:gun_barrel",
+    "count": 1
+  }
+}

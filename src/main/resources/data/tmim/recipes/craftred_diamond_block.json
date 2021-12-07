@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:red_diamond"
+    },
+    "1": {
+      "item": "tmim:red_diamond"
+    },
+    "2": {
+      "item": "tmim:red_diamond"
+    },
+    "3": {
+      "item": "tmim:red_diamond"
+    },
+    "4": {
+      "item": "tmim:red_diamond"
+    },
+    "5": {
+      "item": "tmim:red_diamond"
+    },
+    "6": {
+      "item": "tmim:red_diamond"
+    },
+    "7": {
+      "item": "tmim:red_diamond"
+    },
+    "8": {
+      "item": "tmim:red_diamond"
+    }
+  },
+  "result": {
+    "item": "tmim:block_ofred_diamond",
+    "count": 1
+  }
+}

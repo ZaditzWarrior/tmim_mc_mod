@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:aluminumplating"
+    },
+    "1": {
+      "item": "tmim:advanced_logic_circuit"
+    },
+    "2": {
+      "item": "tmim:aluminumplating"
+    },
+    "3": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "4": {
+      "item": "tmim:storage_controller"
+    },
+    "5": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "6": {
+      "item": "tmim:aluminumplating"
+    },
+    "7": {
+      "item": "tmim:battery"
+    },
+    "8": {
+      "item": "tmim:aluminumplating"
+    }
+  },
+  "result": {
+    "item": "tmim:dark_crystal_converter",
+    "count": 1
+  }
+}

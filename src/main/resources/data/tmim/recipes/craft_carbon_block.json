@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "1": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "2": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "3": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "4": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "5": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "6": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "7": {
+      "item": "tmim:sheet_of_carbon"
+    },
+    "8": {
+      "item": "tmim:sheet_of_carbon"
+    }
+  },
+  "result": {
+    "item": "tmim:block_of_carbon",
+    "count": 1
+  }
+}

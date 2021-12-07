@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:pistol_ammo"
+    },
+    "1": {
+      "item": "tmim:pistol_ammo"
+    },
+    "2": {
+      "item": "tmim:pistol_ammo"
+    },
+    "3": {
+      "item": "tmim:pistol_ammo"
+    },
+    "4": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "5": {
+      "item": "tmim:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:pistol_magazine",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:wooden_gear"
+    },
+    "1": {
+      "item": "tmim:tin_plating_2"
+    },
+    "2": {
+      "item": "tmim:wooden_gear"
+    },
+    "3": {
+      "item": "tmim:tin_plating_2"
+    },
+    "4": {
+      "item": "tmim:storage_controller"
+    },
+    "5": {
+      "item": "tmim:tin_plating_2"
+    },
+    "7": {
+      "item": "tmim:tin_plating_2"
+    }
+  },
+  "result": {
+    "item": "tmim:tin_container",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "1": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "2": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "4": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "5": {
+      "item": "tmim:dark_energon_shard"
+    },
+    "7": {
+      "item": "tmim:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tmim:miner_hammer",
+    "count": 1
+  }
+}

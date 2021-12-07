@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "1": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "2": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "3": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "4": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "5": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "6": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "7": {
+      "item": "tmim:obsidian_crystal"
+    },
+    "8": {
+      "item": "tmim:obsidian_crystal"
+    }
+  },
+  "result": {
+    "item": "minecraft:obsidian",
+    "count": 1
+  }
+}

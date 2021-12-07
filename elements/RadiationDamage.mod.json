@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"Wait_Time\" type=\"Number\">Wait_Time</variable></variables><block type=\"math_java_constants\" x=\"-137\" y=\"-4\"><field name=\"CONSTANT\">RANDOM</field></block><block deletable=\"false\" type=\"event_trigger\" x=\"53\" y=\"117\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"world_entity_player_foreach\"><value name=\"_placeholder\"><block deletable=\"false\" movable=\"false\" type=\"entity_iterator\"/></value><statement name=\"foreach\"><block inline=\"false\" type=\"entity_deal_custom_damage\"><value name=\"damage_number\"><block type=\"math_number\"><field name=\"NUM\">0.2</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value><value name=\"localization_text\"><block type=\"text\"><field name=\"TEXT\">Radiation</field></block></value></block></statement></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/cobalt_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/cobalt_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/cobalt_slab_full"
+    }
+  }
+}

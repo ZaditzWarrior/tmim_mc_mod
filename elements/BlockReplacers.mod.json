@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Block Replacers",
+    "icon": {
+      "value": "CUSTOM:BlockReplacerV1"
+    },
+    "showSearch": false
+  }
+}

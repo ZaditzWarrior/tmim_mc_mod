@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:iron_gear"
+    },
+    "1": {
+      "item": "tmim:basiclogiccircuit"
+    },
+    "2": {
+      "item": "tmim:iron_gear"
+    },
+    "3": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "4": {
+      "item": "tmim:thermal_controller"
+    },
+    "5": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "6": {
+      "item": "tmim:handheld_heater"
+    },
+    "7": {
+      "item": "tmim:basiclogiccircuit"
+    },
+    "8": {
+      "item": "tmim:handheld_heater"
+    }
+  },
+  "result": {
+    "item": "tmim:ice_melter",
+    "count": 1
+  }
+}

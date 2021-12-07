@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Level2Keycard"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Level1keycard"
+      },
+      {
+        "value": "CUSTOM:Basiccircuitboard"
+      },
+      {
+        "value": "CUSTOM:Level3Keycard"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "CUSTOM:Level4Keycard"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Level5keycard"
+    },
+    "name": "craft_5card",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:iron_gear"
+    },
+    "1": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "2": {
+      "item": "tmim:iron_gear"
+    },
+    "3": {
+      "item": "tmim:copper_ingot"
+    },
+    "5": {
+      "item": "tmim:copper_ingot"
+    },
+    "6": {
+      "item": "tmim:copper_ingot"
+    },
+    "8": {
+      "item": "tmim:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:strength_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/battery_block",
+    "up": "tmim:blocks/battery_block",
+    "north": "tmim:blocks/battery_block",
+    "east": "tmim:blocks/battery_block",
+    "south": "tmim:blocks/battery_block",
+    "west": "tmim:blocks/battery_block",
+    "particle": "tmim:blocks/battery_block"
+  }
+}

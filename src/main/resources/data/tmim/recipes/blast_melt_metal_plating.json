@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "tmim:metal_plating_2"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  }
+}

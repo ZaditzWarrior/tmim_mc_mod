@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "water_magic_staff_wood",
+    "customModelName": "Normal",
+    "name": "Lightening Staff",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:ModItems"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 1000,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "specialInfo": [
+      "This staff can be used to summon lightening"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "Strikelightening"
+    },
+    "hasDispenseBehavior": false
+  }
+}

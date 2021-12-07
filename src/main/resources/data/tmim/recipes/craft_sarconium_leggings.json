@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "1": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "2": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "3": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "5": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "6": {
+      "item": "tmim:sarconium_ingot"
+    },
+    "8": {
+      "item": "tmim:sarconium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:sarconium_armour_leggings",
+    "count": 1
+  }
+}

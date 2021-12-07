@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "1": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "2": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "3": {
+      "item": "tmim:copper_ingot"
+    },
+    "4": {
+      "item": "tmim:thermal_controller"
+    },
+    "5": {
+      "item": "tmim:copper_ingot"
+    },
+    "6": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "7": {
+      "item": "tmim:basiccircuitboard"
+    },
+    "8": {
+      "item": "tmim:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:handheld_heater",
+    "count": 1
+  }
+}

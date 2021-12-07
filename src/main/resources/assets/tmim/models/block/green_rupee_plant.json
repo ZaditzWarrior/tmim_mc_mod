@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tmim:blocks/greenrupeeplant",
+    "particle": "tmim:blocks/greenrupeeplant"
+  }
+}

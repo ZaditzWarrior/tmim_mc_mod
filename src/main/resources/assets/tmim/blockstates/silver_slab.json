@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/silver_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/silver_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/silver_slab_full"
+    }
+  }
+}

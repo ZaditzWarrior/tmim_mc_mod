@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tmim:items/awesome_red_diamond_sword"
+  }
+}

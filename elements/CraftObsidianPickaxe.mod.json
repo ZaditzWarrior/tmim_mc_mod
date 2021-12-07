@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ObsidianCrystal"
+      },
+      {
+        "value": "CUSTOM:ObsidianCrystal"
+      },
+      {
+        "value": "CUSTOM:ObsidianCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ObsidianPickaxe"
+    },
+    "name": "craft_obsidian_pickaxe",
+    "namespace": "mod"
+  }
+}

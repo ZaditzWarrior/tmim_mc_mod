@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:stone_gear"
+    },
+    "1": {
+      "item": "tmim:aluminumplating"
+    },
+    "2": {
+      "item": "tmim:stone_gear"
+    },
+    "3": {
+      "item": "tmim:aluminumplating"
+    },
+    "4": {
+      "item": "tmim:storage_controller"
+    },
+    "5": {
+      "item": "tmim:aluminumplating"
+    },
+    "7": {
+      "item": "tmim:aluminumplating"
+    }
+  },
+  "result": {
+    "item": "tmim:aluminium_container",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "grenade_launcher",
+    "customModelName": "Normal",
+    "name": "Grenade Launcher",
+    "specialInfo": [
+      "Launches grenades that expode on contact"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ModItems"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Grenade"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 0.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Grenade"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "GrenadeBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "GrenadeBulletHitsBlock"
+    }
+  }
+}

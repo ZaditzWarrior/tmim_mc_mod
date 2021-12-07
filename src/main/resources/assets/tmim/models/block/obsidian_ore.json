@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/obsidian_ore",
+    "up": "tmim:blocks/obsidian_ore",
+    "north": "tmim:blocks/obsidian_ore",
+    "east": "tmim:blocks/obsidian_ore",
+    "south": "tmim:blocks/obsidian_ore",
+    "west": "tmim:blocks/obsidian_ore",
+    "particle": "tmim:blocks/obsidian_ore"
+  }
+}

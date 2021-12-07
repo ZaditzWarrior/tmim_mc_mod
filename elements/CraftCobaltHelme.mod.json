@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobaltArmour.helmet"
+    },
+    "name": "craft_cobalt_helme",
+    "namespace": "mod"
+  }
+}

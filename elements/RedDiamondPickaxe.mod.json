@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_red_pickaxe",
+    "customModelName": "Normal",
+    "name": "Red Diamond Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ArmourandTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

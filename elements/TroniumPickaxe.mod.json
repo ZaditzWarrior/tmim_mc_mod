@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tronium_pickaxe",
+    "customModelName": "Normal",
+    "name": "Tronium Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ArmourandTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 3.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

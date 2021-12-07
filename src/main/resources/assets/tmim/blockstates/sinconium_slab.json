@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tmim:block/sinconium_slab"
+    },
+    "type=top": {
+      "model": "tmim:block/sinconium_slab_top"
+    },
+    "type=double": {
+      "model": "tmim:block/sinconium_slab_full"
+    }
+  }
+}

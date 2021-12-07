@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_ingot"
+    },
+    "1": {
+      "item": "tmim:copper_ingot"
+    },
+    "3": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "tmim:aluminum_ingot"
+    },
+    "7": {
+      "item": "tmim:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:grenade",
+    "count": 4
+  }
+}

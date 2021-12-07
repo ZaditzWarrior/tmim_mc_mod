@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/red_diamond_ore_1",
+    "up": "tmim:blocks/red_diamond_ore_1",
+    "north": "tmim:blocks/red_diamond_ore_1",
+    "east": "tmim:blocks/red_diamond_ore_1",
+    "south": "tmim:blocks/red_diamond_ore_1",
+    "west": "tmim:blocks/red_diamond_ore_1",
+    "particle": "tmim:blocks/red_diamond_ore_1"
+  }
+}

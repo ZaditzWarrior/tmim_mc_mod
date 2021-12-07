@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "tmim:blocks/copper_block",
+    "particle": "tmim:blocks/copper_block"
+  }
+}

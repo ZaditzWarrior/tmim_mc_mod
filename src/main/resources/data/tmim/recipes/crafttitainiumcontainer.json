@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:golden_gear"
+    },
+    "1": {
+      "item": "tmim:titanium_plate"
+    },
+    "2": {
+      "item": "tmim:golden_gear"
+    },
+    "3": {
+      "item": "tmim:titanium_plate"
+    },
+    "4": {
+      "item": "tmim:storage_controller"
+    },
+    "5": {
+      "item": "tmim:titanium_plate"
+    },
+    "7": {
+      "item": "tmim:titanium_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:titainium_container",
+    "count": 1
+  }
+}

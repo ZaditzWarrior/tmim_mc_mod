@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:aluminumplating"
+    },
+    "1": {
+      "item": "tmim:aluminumplating"
+    },
+    "2": {
+      "item": "tmim:aluminumplating"
+    },
+    "3": {
+      "item": "tmim:aluminumplating"
+    },
+    "5": {
+      "item": "tmim:aluminumplating"
+    },
+    "6": {
+      "item": "tmim:aluminumplating"
+    },
+    "7": {
+      "item": "tmim:aluminumplating"
+    },
+    "8": {
+      "item": "tmim:aluminumplating"
+    }
+  },
+  "result": {
+    "item": "tmim:aluminum_plate",
+    "count": 1
+  }
+}

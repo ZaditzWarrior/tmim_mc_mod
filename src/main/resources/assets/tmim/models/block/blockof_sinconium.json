@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/block_of_sinconium",
+    "up": "tmim:blocks/block_of_sinconium",
+    "north": "tmim:blocks/block_of_sinconium",
+    "east": "tmim:blocks/block_of_sinconium",
+    "south": "tmim:blocks/block_of_sinconium",
+    "west": "tmim:blocks/block_of_sinconium",
+    "particle": "tmim:blocks/block_of_sinconium"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:cobalt_ingot"
+    },
+    "1": {
+      "item": "tmim:cobalt_ingot"
+    },
+    "2": {
+      "item": "tmim:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:cobalt_slab",
+    "count": 3
+  }
+}

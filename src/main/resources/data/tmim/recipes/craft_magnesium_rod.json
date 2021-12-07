@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "tmim:magnesium_ingot"
+    },
+    "4": {
+      "item": "tmim:magnesium_ingot"
+    },
+    "6": {
+      "item": "tmim:magnesium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:magnesium_rod",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tmim:blocks/mithril_plating",
+    "up": "tmim:blocks/mithril_plating",
+    "north": "tmim:blocks/mithril_plating",
+    "east": "tmim:blocks/mithril_plating",
+    "south": "tmim:blocks/mithril_plating",
+    "west": "tmim:blocks/mithril_plating",
+    "particle": "tmim:blocks/mithril_plating"
+  }
+}

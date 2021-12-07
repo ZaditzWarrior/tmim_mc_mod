@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:MetalPlating2"
+    },
+    "blastingReturnStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "name": "blast_melt_metal_plating",
+    "namespace": "mod"
+  }
+}

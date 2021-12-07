@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:copper_wire"
+    },
+    "1": {
+      "item": "tmim:electroniccircuit"
+    },
+    "2": {
+      "item": "tmim:copper_wire"
+    },
+    "3": {
+      "item": "tmim:electroniccircuit"
+    },
+    "4": {
+      "item": "tmim:microchip"
+    },
+    "5": {
+      "item": "tmim:electroniccircuit"
+    },
+    "6": {
+      "item": "tmim:copper_wire"
+    },
+    "7": {
+      "item": "tmim:electroniccircuit"
+    },
+    "8": {
+      "item": "tmim:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tmim:basiclogiccircuit",
+    "count": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:sarconium_plate"
+    },
+    "1": {
+      "item": "tmim:sarconium_plate"
+    },
+    "2": {
+      "item": "tmim:sarconium_plate"
+    },
+    "3": {
+      "item": "tmim:sarconium_plate"
+    },
+    "5": {
+      "item": "tmim:sarconium_plate"
+    },
+    "6": {
+      "item": "tmim:sarconium_plate"
+    },
+    "7": {
+      "item": "tmim:sarconium_plate"
+    },
+    "8": {
+      "item": "tmim:sarconium_plate"
+    }
+  },
+  "result": {
+    "item": "tmim:sarconiumplating",
+    "count": 1
+  }
+}

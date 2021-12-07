@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "tmim:copper_wire"
+    },
+    "3": {
+      "item": "tmim:copper_wire"
+    },
+    "4": {
+      "item": "tmim:microchip"
+    },
+    "5": {
+      "item": "tmim:copper_wire"
+    },
+    "7": {
+      "item": "tmim:copper_wire"
+    }
+  },
+  "result": {
+    "item": "tmim:circuit_board",
+    "count": 1
+  }
+}

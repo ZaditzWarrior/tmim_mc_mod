@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 50,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.LEAVES"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SheetOfCarbon"
+    },
+    "name": "burn_plant_life",
+    "namespace": "mod"
+  }
+}

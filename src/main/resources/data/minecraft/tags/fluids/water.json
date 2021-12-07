@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tmim:energon",
+    "tmim:energon_flowing",
+    "tmim:acid",
+    "tmim:acid_flowing"
+  ]
+}

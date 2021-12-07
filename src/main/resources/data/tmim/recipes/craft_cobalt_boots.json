@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:cobalt_ingot"
+    },
+    "2": {
+      "item": "tmim:cobalt_ingot"
+    },
+    "3": {
+      "item": "tmim:cobalt_ingot"
+    },
+    "5": {
+      "item": "tmim:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "tmim:cobalt_armour_boots",
+    "count": 1
+  }
+}

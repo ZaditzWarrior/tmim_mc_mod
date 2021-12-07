@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "tmim:block_of_aluminum"
+    }
+  },
+  "result": {
+    "item": "tmim:aluminum_ingot",
+    "count": 9
+  }
+}

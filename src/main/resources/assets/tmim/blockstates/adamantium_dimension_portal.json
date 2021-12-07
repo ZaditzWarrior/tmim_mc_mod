@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tmim:block/adamantium_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "tmim:block/adamantium_dimension_portal_ns"
+    }
+  }
+}
