@@ -11,7 +11,7 @@ displayURL="https://mcreator.net"
 logoFile="logo.png"
 authors="Drake, The Dragon, MCreator"
 description='''
-A mod that adds several Ores, Items and Entities
+A mod that adds several Ores, Items and Entities [Recommend to install JEI]
 '''
 
 [[dependencies.tmim]]
